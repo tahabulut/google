@@ -1,0 +1,47 @@
+.gorsel{
+    width:351px;
+    height:113px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.conteiner{
+    background-color: rgb(219, 221, 222);
+    width: 1250px;
+    height:84px ;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+.box{
+    background-color: rgb(100, 152, 135);
+    width: 415px;
+    height:115px ;
+    float: left;
+    margin-right: 10px;
+    
+}
+
+.kaydırma{
+    margin-left: 165px;
+}
+
+.boyut{
+    width:500px ;
+}
+
+.boyut2{
+    width: 250px;
+}
+
+.yuvarlak{
+    border-radius:20px ;
+}
+
+
